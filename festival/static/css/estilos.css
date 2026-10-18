@@ -1,0 +1,123 @@
+.body-base {
+    background-color: #faf7f0;
+}
+
+.navbar navbar-expand-lg navbar-dark bg-dark{
+    text-align: center;
+}
+
+.navbar-base{
+    background-color: #111111;
+}
+
+.card{
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,.15);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.card-title{
+    color: #222;
+    font-weight: 700;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.card h2{
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #c8102e;
+}
+
+.form-control{
+    background-color: #ffffff;
+    border: 1px solid #ced4da;
+    color: #000;
+    border-radius: 10px;
+}
+
+.form-control:focus{
+    border-color: #c8102e;
+    box-shadow: 0 0 5px rgba(200,16,46,.3);
+}
+
+.btn-primary{
+    background-color: #422cd2;
+    border-color: #422cd2;
+}
+
+.btn-primary:hover{
+    background-color: #1c0da5;
+    border-color: #1c0da5;
+}
+
+.card form p{
+    margin-bottom: 20px;
+}
+
+.card form label{
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.card form input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.btn-success{
+    background-color: #198754 !important;
+    border-color: #198754 !important;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.btn-success{
+    background-color: #198754;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.text-success{
+    color: #000;
+}
+
+.form-control{
+    color: #000000 !important;
+}
+
+input{
+    color: #000000 !important;
+}
+
+.theme-warning{
+    text-align: center;
+}
+
+.btn-ver-password{
+    background-color: #8f8f8f;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 8px 14px;
+    margin-left: 10px;
+    min-width: 80px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.btn-ver-password:hover{
+    background-color: #787878;
+    color: white;
+}

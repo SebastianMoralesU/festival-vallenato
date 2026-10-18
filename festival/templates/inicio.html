@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block titulo %}
+Bienvenido
+{% endblock %}
+
+
+{% block contenido %}
+
+<div class="card shadow p-5 text-center">
+
+    <h1 class="text-success">
+        Bienvenido {{ usuario.nombre }}
+    </h1>
+
+    <p class="mt-3">
+        Inicio de sesión exitoso.
+    </p>
+
+    <a href="{% url 'login' %}" class="btn btn-danger">
+        Cerrar sesión
+    </a>
+
+</div>
+
+{% endblock %}
