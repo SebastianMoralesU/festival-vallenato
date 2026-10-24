@@ -6,7 +6,6 @@
 
 ```powershell
 python -m venv env_festival
-.\env_festival\Scripts\Activate.ps1
 ```
 
 ### Instalar dependencias
