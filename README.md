@@ -1,7 +1,5 @@
 # Festival Vallenato - Sistema de Votaciones
 
-Proyecto desarrollado con Python, Django y MySQL.
-
 ## Instalación
 
 ### Crear entorno virtual
@@ -36,11 +34,3 @@ python manage.py runserver
 ```
 
 
-## Tecnologías
-
-- Python
-- Django
-- MySQL
-- Bootstrap
-- HTML
-- CSS
